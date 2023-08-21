@@ -52,6 +52,7 @@ function cardAccess(target) {
             
             setTextValue('totalPrice-field', '00.00')
             setTextValue('total-field', '00.00')
+            setTextValue('discount-field', '00.00')
             itemsContainer.removeChild(li)
          
   
